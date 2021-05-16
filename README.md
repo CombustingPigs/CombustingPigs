@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @CombustingPigs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CombustingPigs/CombustingPigs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 Glad you see you here! My name is Skylar Kurtz and I am a Junior at UMBC currently pursuing a B.S. in Computer Science. 
 
