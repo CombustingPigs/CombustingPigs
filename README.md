@@ -1,5 +1,5 @@
 
-Glad you see you here! My name is Skylar Kurtz and I am a Junior at UMBC currently pursuing a B.S. in Computer Science. 
+Glad you see you here! My name is Skylar Kurtz and I am a Senior at UMBC currently pursuing a B.S. in Computer Science. 
 
 5 year plan: Gather as much knowledge and experience possible so I can better create and develop all kinds of stuff from professional to recreational tools and software.
 10 year plan: Secure myself in the professional work by using my skillset to help out a company 
